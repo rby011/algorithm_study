@@ -5,49 +5,49 @@ This code repository is only for personal purpose. The purpose is to study alogr
 ALGORITHM LIST
 --------------
 1. Sorting
-* Heap Sort
-* Quick Sort
-* Key Indexed Sort
-  * Counting Sort
-  * LSD Radix Sort
-  * MSD Radix Sort
+ * Heap Sort
+ * Quick Sort
+ * Key Indexed Sort
+   * Counting Sort
+   * LSD Radix Sort
+   * MSD Radix Sort
 2. Queue
-* Priority Queue
+ * Priority Queue
 3. Stack
-* Calculator
+ * Calculator
 4. Set
-* Union Find
-* Percolation
+ * Union Find
+ * Percolation
 5. Tree
-* Binary Search Tree
-* Red Black Tree
-* Prefix Code Tree
-* DFS/BFS
+ * Binary Search Tree
+ * Red Black Tree
+ * Prefix Code Tree
+ * DFS/BFS
 6. Graph
-* Topological Sort
+ * Topological Sort
 7. MST
-* Kruskal
-* Prims
+ * Kruskal
+ * Prims
 8. Shortest Path
-* Bellman Ford
-* Dijkstra
-* Floyd Washall
+ * Bellman Ford
+ * Dijkstra
+ * Floyd Washall
 9. Compression
-* Huffman
+ * Huffman
 10. String
-* Suffix Array
-* Longest Repeated Substring
-* Longest Common Substring
-* Automata
-* KMP
-* Boyer Moore
-* Tenary Trie
-* R-way Trie
+ * Suffix Array
+ * Longest Repeated Substring
+ * Longest Common Substring
+ * Automata
+ * KMP
+ * Boyer Moore
+ * Tenary Trie
+ * R-way Trie
 11. Dynamic Programming
-* Representative Examples
-  * Fibonacci
-  * Knapsack
-  * Longest Common Sequences
-  * Longest Path
-  * Matrix Multiplication
-  * Shortest Path
+ * Representative Examples
+   * Fibonacci
+   * Knapsack
+   * Longest Common Sequences
+   * Longest Path
+   * Matrix Multiplication
+   * Shortest Path
